@@ -9,7 +9,6 @@ body {
 }
 .codeup-title{
     font-size: 35px;
-    font-style: bold;
 }
 
 .top-nav-first {
@@ -85,4 +84,37 @@ h1, h2, h3, h4, h5, h6{
 }
 .dot-center{
     text-align: center;
+}
+.margin-top{
+    margin-top: 50px;
+}
+
+.small-dot{
+    height: 18px;
+    width: 18px;
+    color: black;
+    font-size: 10px;
+    border: 0;
+    font-weight: bold;
+}
+
+.container>img {
+    max-width: 100%;
+    height: auto;
+}
+
+.sr{
+    background-color: #E6536B;
+}
+
+.so{
+    background-color: #EB9D3A;
+}
+
+.sg{
+    background-color: #7CB06C;
+}
+
+.sb{
+    background-color: #00ABA9;
 }
