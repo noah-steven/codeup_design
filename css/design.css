@@ -7,6 +7,10 @@ body {
     list-style-type: none;
     padding-left: 0;
 }
+.codeup-title{
+    font-size: 35px;
+    font-style: bold;
+}
 
 .top-nav-first {
     text-align: center;
@@ -21,6 +25,7 @@ body {
 }
 .top-nav-link {
     color: #000;
+    margin-right:10px;
 }
 .nav-item {
     display: inline-block;
@@ -40,10 +45,18 @@ h1, h2, h3, h4, h5, h6{
     margin: 0 auto;
     font-family: 'Anton', sans-serif;
 }
+.m-title{
+    font-size: 40px;
+    margin: 30px 5px;
+    text-align:center;
+}
 
+.m-bottom{
+    margin-bottom: 30px;
+}
 .dot {
-    height: 100px;
-    width: 100px;
+    height: 120px;
+    width: 120px;
     color: white;
     border-radius: 50%;
     display: inline-block;
@@ -52,7 +65,8 @@ h1, h2, h3, h4, h5, h6{
 
 .dot p{
     font-family: 'Anton', sans-serif;
-    margin-top: 2em;
+    margin-top: 2.7em;
+
 }
 .red{
     background-color: #E6536B;
@@ -68,4 +82,7 @@ h1, h2, h3, h4, h5, h6{
 
 .blue{
     background-color: #00ABA9;
+}
+.dot-center{
+    text-align: center;
 }
