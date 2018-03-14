@@ -1,5 +1,6 @@
 body {
     background-color: #F0F0F0;
+    font-family: 'Abel', sans-serif;
 }
 
 .top-nav {
@@ -31,23 +32,40 @@ body {
     max-height: 105px;
 }
 
-/*
-li{
-    display:inline;
+.row{
+    align-items: center;
 }
-.nav-area{
-    text-align: center;
+
+h1, h2, h3, h4, h5, h6{
+    margin: 0 auto;
+    font-family: 'Anton', sans-serif;
 }
-.row-grey{
-    background-color: #F0F0F0;
-    margin-top: 5em;
+
+.dot {
+    height: 100px;
+    width: 100px;
+    color: white;
+    border-radius: 50%;
+    display: inline-block;
+    border: 5px solid white;
 }
-.logo-float{
-    float:left;
-    position: absolute;
-    top: -1em;
-    left: 14em;
+
+.dot p{
+    font-family: 'Anton', sans-serif;
+    margin-top: 2em;
 }
-.bg-white{
-    height: 5em;
-}*/
+.red{
+    background-color: #E6536B;
+}
+
+.orange{
+    background-color: #EB9D3A;
+}
+
+.green{
+    background-color: #7CB06C;
+}
+
+.blue{
+    background-color: #00ABA9;
+}
