@@ -1,1 +1,26 @@
-a {}
+.shading-row{
+    background-color:#F0F0F0 ;
+    width: 100%;
+    height: 30%;
+}
+
+.header-row{
+    width: 100%;
+    height: 4em;
+}
+
+.logo-row{
+    align-items: center;
+    height: 30%;
+    width: 100%;
+}
+
+.logo-row>img{
+    height: 105px;
+    width: 105px;
+}
+
+.container{
+    width: 100%;
+    height: 12em;
+}
