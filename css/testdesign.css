@@ -56,6 +56,7 @@ h1, h2, h3, h4, h5, h6{
     border-radius: 50%;
     display: inline-block;
     border: 5px solid white;
+    margin: 15px;
 }
 
 .dot p{
@@ -148,7 +149,7 @@ p.float-l{
 }
 
 p.codeup-title{
-    text-align: left;
+    text-align: center;
 }
 .larger-links{
     text-align: center;
