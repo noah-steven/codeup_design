@@ -127,3 +127,33 @@ h1, h2, h3, h4, h5, h6{
     width:400px;
     height:auto;
 }
+.small-pic{
+    max-width:100%;
+    height: 45px;
+}
+
+.float-l{
+    float: left;
+}
+
+p.float-l{
+    margin: 10px;
+}
+.twitter-float{
+    padding-left: 0;
+}
+.top-link{
+    display:inline;
+    float:left;
+}
+
+p.codeup-title{
+    text-align: center;
+}
+.larger-links{
+    text-align: center;
+    padding-top: 20px;
+}
+.large-img{
+    margin-left:40px;
+}
